@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e3f2fd;
+    color: #004d40;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    color: #0277bd;
+    margin-top: 20px;
+}
+
+p {
+    margin: 20px;
+    text-align: justify;
+}
+
+ul {
+    margin: 10px 20px;
+    list-style-type: disc;
+}
+
+strong {
+    color: #d32f2f;
+}
